@@ -25,3 +25,7 @@ Although:
 
  The code is valid, well-structured, and functional.  
  Once the dataset values are updated or replaced with a more complete ACS dataset, the data will automatically appear in the Bootstrap Table without needing to modify the code.
+
+
+You can find the final Assignment in the link below
+<https://rfreyrep.github.io/Freyre_Raul_Assignment7/>
